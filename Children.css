@@ -1,0 +1,21 @@
+.container-fluid mx-2{
+    display: flex;
+    text-align: center;
+    color: black;
+  
+  
+  }
+  .row mt-5 mx-2{
+    display: flex;
+    text-align:start;
+    
+    
+  }
+  .col-md-3{
+    display: flex;
+    color: beige;
+  
+  }
+  .column,.column1,.column2{
+  display: inline-block;
+  }
